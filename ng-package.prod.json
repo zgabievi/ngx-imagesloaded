@@ -3,5 +3,8 @@
   "dest": "../../dist/ngx-imagesloaded",
   "lib": {
     "entryFile": "src/public_api.ts"
-  }
+  },
+  "whitelistedNonPeerDependencies": [
+    "imagesloaded"
+  ]
 }
