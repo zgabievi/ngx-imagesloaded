@@ -1,0 +1,19 @@
+{
+  "name": "ngx-imagesloaded",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "imagesloaded": "^4.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgabievi/ngx-imagesloaded.git"
+  },
+  "keywords": [
+    "imagesloaded",
+    "images"
+  ],
+  "author": "Zura Gabievi <zura.gabievi@gmail.com>",
+  "license": "MIT"
+}
